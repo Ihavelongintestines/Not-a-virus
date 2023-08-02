@@ -1,0 +1,1 @@
+x=msgbox("Your mother went die", 2+48, "Your mother went die")
